@@ -31,13 +31,7 @@
   <a href="https://instagram.com/https://www.instagram.com/blesserker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/blesserker/" height="30" width="40" /></a>
 </h3>
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d4ntes6xx/d4ntes6xx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/d4ntes6xx/d4ntes6xx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/d4ntes6xx/d4ntes6xx/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/d4ntes6xx/d4ntes6xx/output/snake.svg" alt="Snake animation" />
 
 <br>
 
@@ -80,5 +74,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/d4ntes6xx/d4ntes6xx/output/snake.svg" alt="Snake animation" />
