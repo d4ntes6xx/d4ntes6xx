@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! my name is Daniel</h1>
+<h1 align="center">Hello, World! My name is Daniel</h1>
 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBwMDhjdzM5ZmpyZ3g1Nmk3aHpkaHI4ZzY3N201emE4YnBjajJ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oeHLp8FQLzM9soBt6/giphy.gif" height="350" alt = "gif">
