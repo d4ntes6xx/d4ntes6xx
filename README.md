@@ -25,7 +25,7 @@
 </div>
 
 <h3 align="left">
-  &emsp;&emsp;Connect with me:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;Connect with me:&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <a href="https://stackoverflow.com/users/https://ru.stackoverflow.com/users/741336/d4ntes6xx" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://ru.stackoverflow.com/users/741336/d4ntes6xx" height="30" width="40" /></a>
   <a href="https://codesandbox.com/https://codesandbox.io/u/d4ntes6xx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/d4ntes6xx" height="30" width="40" /></a>
   <a href="https://instagram.com/https://www.instagram.com/blesserker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/blesserker/" height="30" width="40" /></a>
