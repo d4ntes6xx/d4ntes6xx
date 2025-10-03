@@ -31,6 +31,8 @@
   <a href="https://instagram.com/https://www.instagram.com/blesserker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/blesserker/" height="30" width="40" /></a>
 </h3>
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/d4ntes6xx/d4ntes6xx/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/d4ntes6xx/d4ntes6xx/output/pacman-contribution-graph.svg">
@@ -72,8 +74,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" /> <br>
-
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
@@ -81,10 +81,4 @@
   <img src="https://skillicons.dev/icons?i=ae" height="30" alt="adobeaftereffects logo"  />
 </div>
 
-
-###
-
 <img src="https://raw.githubusercontent.com/d4ntes6xx/d4ntes6xx/output/snake.svg" alt="Snake animation" />
-
-###
-
