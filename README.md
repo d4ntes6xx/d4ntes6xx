@@ -14,10 +14,10 @@
 
 <div align="left">
   
-  - i'm currently working on <b> <a href="https://visualstudio.microsoft.com/">Visual Studio <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="20" alt="visualstudio logo" /> </a> & <a href="https://code.visualstudio.com/"> Visual Studio Code (VS Code) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo" /> </a> </b>
+  - i'm currently working on <b> <a href="https://visualstudio.microsoft.com/" style="text-decoration: none">Visual Studio <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="20" alt="visualstudio logo" /> </a> & <a href="https://code.visualstudio.com/" style="text-decoration: none"> Visual Studio Code (VS Code) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo" /> </a> </b>
 
 
-  - reach me / collaborate with me - **dante6ix.business@mail.ru**
+  - reach me / collaborate with me - <a style="text-decoration: none"> <b> dante6ix.business@mail.ru </b> </a>
 
   - fun fact about me: <br>
   **since childhood i've had a passion for computers and their applications. over time, i began to study programming and i'm gradually gaining experience in this field.
