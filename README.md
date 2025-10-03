@@ -3,13 +3,13 @@
 
 - i’m currently working on **Visual Studio, Visual Studio Code**
 
-- i’m currently learning **c++, javascript, html, python, django**
+- i’m currently learning **C++, Javascript, HTML, Python, Django**
 
-- i’m looking for help with **java, с#, php and etc., where in that i can find interesting**
+- i’m looking for help with **Java, C#, PHP and etc., where in that i can find interesting**
 
-- 📫 How to reach me **dante6ix**
+- How to reach me - **dante6ix.business@mail.ru**
 
-- fun fact **since childhood i've had a passion for computers and their applications. over time, i began to study programming and i'm gradually gaining experience in this field.**
+- fun fact: **since childhood i've had a passion for computers and their applications. over time, i began to study programming and i'm gradually gaining experience in this field.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
