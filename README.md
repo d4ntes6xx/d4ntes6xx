@@ -87,3 +87,4 @@
 <img src="https://raw.githubusercontent.com/d4ntes6xx/d4ntes6xx/output/snake.svg" alt="Snake animation" />
 
 ###
+
