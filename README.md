@@ -1,5 +1,5 @@
 <h1 align="center">Hello, world! my name is Daniel</h1>
-<h3 align="center">passionate connoisseur of creating technology</h3>
+<h3 align="center">i'm passionate connoisseur of creating technology.</h3>
 
 - i’m currently working on **Visual Studio, Visual Studio Code**
 
