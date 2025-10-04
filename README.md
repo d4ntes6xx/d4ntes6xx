@@ -1,11 +1,3 @@
-<h1 align="center">Hello, World! My name is Daniel</h1>
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTBwMDhjdzM5ZmpyZ3g1Nmk3aHpkaHI4ZzY3N201emE4YnBjajJ3cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oeHLp8FQLzM9soBt6/giphy.gif" height="350" alt = "gif">
-</div>
-
-<h3 align="center">i'm passionate connoisseur of creating technology.</h3>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=d4ntes6xx&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=d4ntes6xx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="200" alt="languages graph"  />
@@ -17,12 +9,11 @@
   
   - i'm currently working on <b> <a href="https://visualstudio.microsoft.com/" style="text-decoration: none">Visual Studio <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="20" alt="visualstudio logo" /> </a> & <a href="https://code.visualstudio.com/" style="text-decoration: none"> Visual Studio Code (VS Code) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo" /> </a> </b>
 
-
   - reach me / collaborate with me - <a style="text-decoration: none"> <b> dante6ix.business@mail.ru </b> </a>
 
   - fun fact about me: <br>
   **since childhood i've had a passion for computers and their applications. over time, i began to study programming and i'm gradually gaining experience in this field.
-  so, i started to upload something my projects in github relatively recently where I can do something wrong and in the same moment get it right.**
+  so, i started to upload something my projects in github relatively recently where I can do something wrong and in the same moment get it right. now i'm passionate connoisseur of creating technology lol.**
 </div>
 
 <h3 align="left">
